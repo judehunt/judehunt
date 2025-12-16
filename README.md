@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jude 👋
 
 ![McLaren](https://img.shields.io/badge/McLaren-FF8000?style=flat&logo=mclaren&logoColor=white) 
 ![Vodafone](https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white) 
