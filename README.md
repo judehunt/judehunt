@@ -1,5 +1,13 @@
-### Hi, I'm Jude 👋
+## Hi, I'm Jude 👋
 
+### 💫 About Me:
+🏆 Building deep learning models and ML-driven applications that win back-to-back championships  
+⚙️ Stong focus on solving problems with models that ship and deliver real-world impact that people need  
+🧠 Comfortable across the full lifecycle: data → models → pipelines → applications → iteration  
+🌱 Always learning new techniques to squeeze extra performance out of any dataset  
+📊 Emphasis on better data, clearer metrics, and robust validation schemes over fancier models
+
+### 💻 Tech Stack:
 ![McLaren](https://img.shields.io/badge/McLaren-FF8000?style=flat&logo=mclaren&logoColor=white) 
 ![Vodafone](https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
@@ -25,11 +33,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) 
 ![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
+
+### 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/judehunt) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jude-hunt) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/judehunt23)
 
 <!--
 **judehunt/judehunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
