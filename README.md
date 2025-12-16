@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![McLaren](https://img.shields.io/badge/McLaren-FF8000?style=flat&logo=mclaren&logoColor=ffdd54) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792ee5?style=flat&logo=lightning&logoColor=white)
@@ -12,7 +13,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![Polars](https://img.shields.io/badge/Polars-0075ff?style=flat&logo=polars&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF8433.svg?style=flat&logo=Matplotlib&logoColor=black) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
