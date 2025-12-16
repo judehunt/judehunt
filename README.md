@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Lightning](https://img.shields.io/badge/Lightning-792ee5?style=flat&logo=pytorchlightning&logoColor=white)
+![Lightning](https://img.shields.io/badge/Lightning-792ee5?style=flat&logo=lightning&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white) 
