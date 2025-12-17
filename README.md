@@ -5,11 +5,9 @@
 ⚙️ Stong focus on solving problems with models that ship and deliver real-world impact that people need  
 🧠 Comfortable across the full lifecycle: data → models → pipelines → applications → iteration  
 🌱 Always learning new techniques to squeeze extra performance out of any dataset  
-📊 Emphasis on better data, clearer metrics, and robust validation schemes over fancier models
+📊 Emphasis on better data, clearer metrics, and robust validation schemes over fancier models  
 
 ### 💻 Tech Stack:
-![McLaren](https://img.shields.io/badge/McLaren-FF8000?style=flat&logo=mclaren&logoColor=white) 
-![Vodafone](https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792ee5?style=flat&logo=lightning&logoColor=white)
@@ -38,6 +36,10 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
+
+### 📍 Where I’ve Worked: 
+![McLaren](https://img.shields.io/badge/McLaren-FF8000?style=flat&logo=mclaren&logoColor=white)
+![Vodafone](https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white) 
 
 ### 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/judehunt) 
